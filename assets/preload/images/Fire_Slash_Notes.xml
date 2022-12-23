@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fire_Slash_Notes.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue blade0000" x="5" y="5" width="351" height="351" pivotX="100.5" pivotY="85.5"/>
+	<SubTexture name="blue fire0000" x="361" y="5" width="351" height="383" pivotX="100.5" pivotY="85.5" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0001" x="717" y="5" width="351" height="384"/>
+	<SubTexture name="blue fire0002" x="1073" y="5" width="351" height="351" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0003" x="1429" y="5" width="351" height="356" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0004" x="1785" y="5" width="351" height="360" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0005" x="2141" y="5" width="351" height="365" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0006" x="2497" y="5" width="351" height="369" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0007" x="2853" y="5" width="351" height="371" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0008" x="3209" y="5" width="351" height="376" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="blue fire0009" x="3565" y="5" width="351" height="380" frameX="0" frameY="0" frameWidth="351" frameHeight="384"/>
+	<SubTexture name="fire confirm glow0000" x="5" y="394" width="351" height="351" pivotX="100.5" pivotY="85.5"/>
+	<SubTexture name="fire confirm glow0001" x="361" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0002" x="717" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0003" x="717" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0004" x="1073" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0005" x="1073" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0006" x="1429" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0007" x="1429" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0008" x="1785" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0009" x="1785" y="394" width="351" height="351"/>
+	<SubTexture name="fire confirm glow0010" x="2141" y="394" width="351" height="351"/>
+	<SubTexture name="green blade0000" x="2497" y="394" width="351" height="351" pivotX="100.5" pivotY="85.5"/>
+	<SubTexture name="green fire0000" x="2853" y="394" width="351" height="386" pivotX="100.5" pivotY="85.5" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0001" x="3209" y="394" width="351" height="387"/>
+	<SubTexture name="green fire0002" x="3565" y="394" width="351" height="351" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0003" x="5" y="786" width="351" height="359" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0004" x="361" y="786" width="351" height="364" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0005" x="717" y="786" width="351" height="368" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0006" x="1073" y="786" width="351" height="372" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0007" x="1429" y="786" width="351" height="374" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0008" x="1785" y="786" width="351" height="379" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="green fire0009" x="2141" y="786" width="351" height="383" frameX="0" frameY="0" frameWidth="351" frameHeight="387"/>
+	<SubTexture name="purp fire0000" x="2497" y="786" width="351" height="388" pivotX="100.5" pivotY="85.5" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0001" x="2853" y="786" width="351" height="389"/>
+	<SubTexture name="purp fire0002" x="3209" y="786" width="351" height="352" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0003" x="3565" y="786" width="351" height="361" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0004" x="5" y="1180" width="351" height="366" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0005" x="361" y="1180" width="351" height="370" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0006" x="717" y="1180" width="351" height="374" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0007" x="1073" y="1180" width="351" height="376" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0008" x="1429" y="1180" width="351" height="381" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purp fire0009" x="1785" y="1180" width="351" height="385" frameX="0" frameY="0" frameWidth="351" frameHeight="389"/>
+	<SubTexture name="purple blade0000" x="2141" y="1180" width="351" height="351" pivotX="100.5" pivotY="85.5"/>
+	<SubTexture name="red blade0000" x="2497" y="1180" width="351" height="351" pivotX="100.5" pivotY="85.5"/>
+	<SubTexture name="red fire0000" x="2853" y="1180" width="351" height="390" pivotX="100.5" pivotY="85.5" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0001" x="3209" y="1180" width="351" height="391"/>
+	<SubTexture name="red fire0002" x="3565" y="1180" width="351" height="354" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0003" x="5" y="1576" width="351" height="363" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0004" x="361" y="1576" width="351" height="368" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0005" x="717" y="1576" width="351" height="372" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0006" x="1073" y="1576" width="351" height="376" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0007" x="1429" y="1576" width="351" height="378" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0008" x="1785" y="1576" width="351" height="383" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="red fire0009" x="2141" y="1576" width="351" height="387" frameX="0" frameY="0" frameWidth="351" frameHeight="391"/>
+	<SubTexture name="slice confirm0000" x="2497" y="1576" width="351" height="351" pivotX="100.5" pivotY="85.5"/>
+	<SubTexture name="slice confirm0001" x="2853" y="1576" width="351" height="351"/>
+	<SubTexture name="slice confirm0002" x="3209" y="1576" width="351" height="351"/>
+	<SubTexture name="slice confirm0003" x="3209" y="1576" width="351" height="351"/>
+	<SubTexture name="slice confirm0004" x="3565" y="1576" width="351" height="351"/>
+	<SubTexture name="slice confirm0005" x="3565" y="1576" width="351" height="351"/>
+	<SubTexture name="slice confirm0006" x="5" y="1968" width="351" height="351"/>
+	<SubTexture name="slice confirm0007" x="5" y="1968" width="351" height="351"/>
+	<SubTexture name="slice confirm0008" x="361" y="1968" width="351" height="351"/>
+	<SubTexture name="slice confirm0009" x="361" y="1968" width="351" height="351"/>
+	<SubTexture name="slice confirm0010" x="2141" y="394" width="351" height="351"/>
+</TextureAtlas>
